@@ -19,7 +19,8 @@ def calculate_scoreboard(participants):
 
 participants = [
     {"name": "Habanero Hillary", "chickenwings": 5, "hamburgers": 17, "hotdogs": 11},
-    {"name": "Big Bob" , "chickenwings": 20, "hamburgers": 4, "hotdogs": 11}
+    {"name": "Big Bob" , "chickenwings": 20, "hamburgers": 4, "hotdogs": 11},
+    {"name": "Alphonso Davies" , "chickenwings": 18, "hamburgers": 10, "hotdogs": 5}
 
 ]
 print(calculate_scoreboard(participants))
